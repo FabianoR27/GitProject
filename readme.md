@@ -30,3 +30,6 @@ git push -u origin main
 
 git checkout -b "nomedanovabranch": cria uma nova branch e já sai da antiga.
 (sem o -u, ela só alterna entre as branches existentes)
+ 
+git merge nomedabranchqueseramesclada: junta uma branch na outra.
+ 
