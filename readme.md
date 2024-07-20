@@ -10,3 +10,5 @@ comandos:
 git init: para inicializar um repositorio git detro de uma pasta. Cria uma repositório .git dentro da pasta.
 
 git add: manda os aquivos para a área de staging, ou seja, vai preparar os aquivos selecionados para serem adicionados na pasta do projeto.
+
+git status: mostra o status do que foi feito até o momento, como as mudanças a serem commitadas.
