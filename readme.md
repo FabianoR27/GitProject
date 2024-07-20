@@ -27,3 +27,5 @@ git remote add origin https://github.com/FabianoR27/GitProject.git (esse comando
 git branch -M main
 git push -u origin main
 (comandos para adicionar o repositorio remoto para o github)
+
+git checkout -b "nomedanovabranch": cria uma nova branch e já sai da antiga.
