@@ -2,6 +2,8 @@ Este arquivo foi criado para treinar as minhas habilidades com o git. Futurament
 
 commit: pontos de medificação de um arquivo, é como salvar as modificações feitas e salvar as versões anteriores do arquivo, para poder voltar para as edições anteriores do projeto, se for necessário.
 
+branch: é uma ramificação do projeto.
+
 branch (master): é a branch principal, ou a pasta principal, que parece quando damos um git init em uma pasta, aí essa pasta se tornao ponto de início do projeto.
 
 o Git tem mudado a nomenclatura "master" para "main", portanto, atente- para fazer essa mudança, caso seja necessário.
