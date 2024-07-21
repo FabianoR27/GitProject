@@ -24,7 +24,9 @@ git commit -m "CONTEUDO DA MENSAGEM": criar o commit ( o -m é para inserir uma 
 git branch -M "main" : para renomear a nomenclatura "master" para "main", ou qualquer outro nome se necessário.
 
 git remote add origin https://github.com/FabianoR27/GitProject.git (esse comando só é necessário usar uma vez)
+
 git branch -M main
+
 git push -u origin main
 (comandos para adicionar o repositorio remoto para o github)
 
