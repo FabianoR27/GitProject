@@ -15,7 +15,7 @@ git init: para inicializar um repositorio git detro de uma pasta. Cria uma repos
 
 git add <nome do arquivo>: manda os aquivos para a área de staging, ou seja, vai preparar os aquivos selecionados para serem adicionados na pasta do projeto.
 
-git add . : mada todos os aquivos existentes na pasta.
+git add(espaço). : manda todos os aquivos existentes na pasta.
 
 git status: mostra o status do que foi feito até o momento, como as mudanças a serem commitadas.
 
